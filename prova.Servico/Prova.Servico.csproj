@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Prova.Servicos</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\prova.Entidade\Prova.Entidade.csproj" />
+    <ProjectReference Include="..\prova.Repositorio\Prova.Repositorio.csproj" />
+  </ItemGroup>
+
+</Project>

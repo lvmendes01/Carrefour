@@ -1,0 +1,15 @@
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\bin\Debug\netcoreapp3.1\Prova.Repositorio.deps.json
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\bin\Debug\netcoreapp3.1\Prova.Repositorio.runtimeconfig.json
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\bin\Debug\netcoreapp3.1\Prova.Repositorio.runtimeconfig.dev.json
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\bin\Debug\netcoreapp3.1\Prova.Repositorio.dll
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\bin\Debug\netcoreapp3.1\Prova.Repositorio.pdb
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\bin\Debug\netcoreapp3.1\Prova.Entidade.dll
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\bin\Debug\netcoreapp3.1\Prova.Entidade.pdb
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\obj\Debug\netcoreapp3.1\Prova.Repositorio.csprojAssemblyReference.cache
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\obj\Debug\netcoreapp3.1\Prova.Repositorio.AssemblyInfoInputs.cache
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\obj\Debug\netcoreapp3.1\Prova.Repositorio.AssemblyInfo.cs
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\obj\Debug\netcoreapp3.1\Prova.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\obj\Debug\netcoreapp3.1\Prova.Repositorio.csproj.CopyComplete
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\obj\Debug\netcoreapp3.1\Prova.Repositorio.dll
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\obj\Debug\netcoreapp3.1\Prova.Repositorio.pdb
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Repositorio\obj\Debug\netcoreapp3.1\Prova.Repositorio.genruntimeconfig.cache

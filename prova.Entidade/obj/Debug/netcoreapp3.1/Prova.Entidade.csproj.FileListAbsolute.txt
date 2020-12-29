@@ -1,0 +1,14 @@
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\bin\Debug\netcoreapp3.1\Prova.Entidade.deps.json
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\bin\Debug\netcoreapp3.1\Prova.Entidade.runtimeconfig.json
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\bin\Debug\netcoreapp3.1\Prova.Entidade.runtimeconfig.dev.json
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\bin\Debug\netcoreapp3.1\Prova.Entidade.dll
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\bin\Debug\netcoreapp3.1\Prova.Entidade.pdb
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\obj\Debug\netcoreapp3.1\Prova.Entidade.Migrations.InitialCreate.resources
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\obj\Debug\netcoreapp3.1\Prova.Entidade.Migrations.MyFirstMigrations.resources
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\obj\Debug\netcoreapp3.1\Prova.Entidade.csproj.GenerateResource.cache
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\obj\Debug\netcoreapp3.1\Prova.Entidade.AssemblyInfoInputs.cache
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\obj\Debug\netcoreapp3.1\Prova.Entidade.AssemblyInfo.cs
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\obj\Debug\netcoreapp3.1\Prova.Entidade.csproj.CoreCompileInputs.cache
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\obj\Debug\netcoreapp3.1\Prova.Entidade.dll
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\obj\Debug\netcoreapp3.1\Prova.Entidade.pdb
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Entidade\obj\Debug\netcoreapp3.1\Prova.Entidade.genruntimeconfig.cache

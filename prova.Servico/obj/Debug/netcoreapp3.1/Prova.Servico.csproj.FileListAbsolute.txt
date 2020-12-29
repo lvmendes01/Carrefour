@@ -1,0 +1,17 @@
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\bin\Debug\netcoreapp3.1\Prova.Servicos.deps.json
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\bin\Debug\netcoreapp3.1\Prova.Servicos.runtimeconfig.json
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\bin\Debug\netcoreapp3.1\Prova.Servicos.runtimeconfig.dev.json
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\bin\Debug\netcoreapp3.1\Prova.Servicos.dll
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\bin\Debug\netcoreapp3.1\Prova.Servicos.pdb
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\bin\Debug\netcoreapp3.1\Prova.Entidade.dll
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\bin\Debug\netcoreapp3.1\Prova.Repositorio.dll
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\bin\Debug\netcoreapp3.1\Prova.Entidade.pdb
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\bin\Debug\netcoreapp3.1\Prova.Repositorio.pdb
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\obj\Debug\netcoreapp3.1\Prova.Servico.csprojAssemblyReference.cache
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\obj\Debug\netcoreapp3.1\Prova.Servico.AssemblyInfoInputs.cache
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\obj\Debug\netcoreapp3.1\Prova.Servico.AssemblyInfo.cs
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\obj\Debug\netcoreapp3.1\Prova.Servico.csproj.CoreCompileInputs.cache
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\obj\Debug\netcoreapp3.1\Prova.Servico.csproj.CopyComplete
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\obj\Debug\netcoreapp3.1\Prova.Servicos.dll
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\obj\Debug\netcoreapp3.1\Prova.Servicos.pdb
+C:\Users\terc.leonardo\source\repos\lvmendes01\Prova\prova.Servico\obj\Debug\netcoreapp3.1\Prova.Servico.genruntimeconfig.cache
